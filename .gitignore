@@ -1,0 +1,39 @@
+# Java
+target/
+*.class
+*.jar
+*.war
+*.zip
+*.tar.gz
+*.log
+
+# Maven
+# !mvn/wrapper/maven-wrapper.jar
+
+# Node
+node_modules/
+front/node_modules/
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Env
+.env
+.env.local
+
+# User data
+userdata/resumes/
+
+# Vite
+front/dist/
+front/.vite/
